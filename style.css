@@ -69,7 +69,7 @@ section {
   align-items: center;
   border-radius: 20px;
   border: 1px solid #043360;
-  padding: 10px 30px;
+  padding: 30px 20px;
   margin: 20px;
   
 }
@@ -119,15 +119,33 @@ h4 {
 
 h3 {
   background-color: #043360;
+  color: #FFF9EF;
   border-radius: 5px;
+  padding: 8px;
+
 }
 
 h1 {
   background-color: #043360;
+  color: #FFF9EF;
   border-radius: 5px;
-  margin-top: 10px;
+  margin-top: 20px;
+  padding: 8px;
 }
 
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  
+
+}
+
+.arrow-img {
+    margin: 15px 0;
+
+}
 
 
 
