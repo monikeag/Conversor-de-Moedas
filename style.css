@@ -155,6 +155,12 @@ h1 {
   box-shadow: 2px 2px 3px 0px rgba(72, 73, 73, 0.733) inset;
 }
 
+.fundo-convertido {
+  background-color: #FFF9EF;
+  border-radius: 4px;
+  padding: 5px 10px;
+  box-shadow: 2px 2px 3px 0px rgba(72, 73, 73, 0.733) inset;
+}
 
 
 
